@@ -1,2 +1,2 @@
-# Sz-n-ra
+# Szinora
 Színóra
