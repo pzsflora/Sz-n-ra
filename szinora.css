@@ -1,0 +1,21 @@
+* {
+  margin: 0; 
+  padding: 0;
+}
+
+#clock {
+  text-align: center;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'New Tegomin', serif;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-size: 45px;
+  margin-top: -23px;
+}
